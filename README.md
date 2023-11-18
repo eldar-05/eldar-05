@@ -34,7 +34,7 @@ I'm Eldar, a dedicated computer science student at Ala-Too International Univers
 
 ### 📈 GitHub Stats
 
-[eldar-05](https://github-readme-stats.vercel.app/api?username=eldar-05&show_icons=true&hide=contribs&theme=radical)
+[GitHub Stats](https://github-readme-stats.vercel.app/api?username=eldar-05&show_icons=true&hide=contribs&theme=radical)
 
 ### 🌐 Connect with Me
 
