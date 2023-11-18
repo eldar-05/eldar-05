@@ -1,4 +1,4 @@
-## 👋 Hello, Fellow Coders!
+## 👋 Hello, World!
 
 I'm Eldar, a dedicated computer science student at Ala-Too International University, currently immersing myself in the world of Java programming.
 
