@@ -40,4 +40,5 @@ I'm Eldar, a dedicated computer science student at Ala-Too International Univers
 
 - Instagram: [@eldar.xc](https://www.instagram.com/eldar.xc/)
 - Portfolio: [eldar-portfolio](https://sites.google.com/view/eldar-portfolio/home/)
+
 Excited about the journey ahead, turning code into impactful solutions and games! 🚀
