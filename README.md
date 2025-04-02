@@ -8,11 +8,11 @@
 </div>
 
 ---
-### N O L O G I C N O P R O B L E M S
+## it was destined to be here
 
 There’s poetry in algorithms, rhythm in clean architecture, and chaos in the void where ideas take shape. I exist somewhere in between—writing silent revolutions in code, designing systems that breathe, and breaking the expected to rebuild something greater.
 
-"  chat GPT"
+" -- chat GPT"
 
 ---
 ### ⚙️ Tools of Creation
