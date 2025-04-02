@@ -1,4 +1,9 @@
-## ⚡ Digital Nomad: Eldar
+## ⚡ Eldar
+
+---
+<div align="center">
+  <img src="https://github.com/eldar-05/justcoolpic/blob/main/dar-meme.jpg" width="400" alt="Just a cool pic" />
+</div>
 
 ---
 <div align="center">
