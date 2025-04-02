@@ -1,22 +1,27 @@
-## ⚡ Eldar: Code Architect
+## ⚡ Digital Nomad: Eldar
 
 ---
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=22&duration=3000&color=F7B93E&center=true&vCenter=true&lines=>_Building+the+Unseen;>_Breaking+the+Expected;>_Mastering+the+Code;>_Minimal+Yet+Powerful" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=22&duration=3000&color=F7B93E&center=true&vCenter=true&lines=>_Echoes+of+Code;>_Architect+of+the+Invisible;>_Traveler+of+the+Binary+Realm;>_Shaping+the+Unwritten" alt="Typing SVG" />
 </div>
 
 ---
-### ⌨️ Less Code, More Meaning
+### 🌑 Between Logic & Chaos
 
-- **Backend & Security** → Java | Spring Boot | Linux | Hacking
-- **Automation & Logic** → Clean Code | API Design | System Tuning
-- **Mindset** → Simplify. Optimize. Disrupt.
+There’s poetry in algorithms, rhythm in clean architecture, and chaos in the void where ideas take shape. I exist somewhere in between—writing silent revolutions in code, designing systems that breathe, and breaking the expected to rebuild something greater.
 
 ---
-### 🌐 Connect
+### ⚙️ Tools of Creation
 
-[📡 Transmission Link](https://www.instagram.com/eldar.xc/)  
-[🔗 Digital Gateway](https://sites.google.com/view/eldar-portfolio/home)  
+- ✨ **Simplicity over excess** → Minimalism fuels clarity.
+- ⚙️ **Systems over shortcuts** → Build things that last.
+- 🔥 **Curiosity over comfort** → Growth begins at the unknown.
 
 ---
-⚠️ *Efficiency is the ultimate sophistication.*
+### 🌐 Transmission Signals
+
+[🔗 Enter the Network](https://www.instagram.com/eldar.xc/)  
+[📡 Explore the Archive](https://sites.google.com/view/eldar-portfolio/home)  
+
+---
+⚠️ *The world is built on patterns. Some are meant to be rewritten.*
