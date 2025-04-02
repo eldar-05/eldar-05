@@ -1,49 +1,22 @@
-## 🚀 Cyber Alchemist: Eldar
-
-### ⚡ Code, Hack, Build, Repeat
+## ⚡ Eldar: Code Architect
 
 ---
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=22&duration=3000&color=F7B93E&center=true&vCenter=true&lines=while(true)++;Keep+Evolving;Crafting+Digital+Chaos;Code+like+a+Sorcerer;Future+is+Written+in+Code" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=22&duration=3000&color=F7B93E&center=true&vCenter=true&lines=>_Building+the+Unseen;>_Breaking+the+Expected;>_Mastering+the+Code;>_Minimal+Yet+Powerful" alt="Typing SVG" />
 </div>
 
 ---
-### 🧠 Who Am I?
+### ⌨️ Less Code, More Meaning
 
-- 🏴‍☠️ **Code Hacker** — Twisting logic into elegant chaos.
-- 🔥 **Backend Sorcerer** — Weaving Java, Spring Boot, and databases into spells.
-- 👁 **Digital Phantom** — Exploring cybersecurity & hacking the unknown.
-- 🕹 **Game Dreamer** — Imagining worlds before they're coded into reality.
-
----
-### ⚙️ My Digital Arsenal
-
-`echo "01001000 01000001 01000011 01001011 01000101 01010010"`
-
-🚀 Java | Spring Boot | PostgreSQL | Docker | REST APIs  
-🛡️ Ethical Hacking | Reverse Engineering | Linux Wizardry  
-🔮 Game Prototyping | Unreal Engine | Pixel Art Alchemy  
+- **Backend & Security** → Java | Spring Boot | Linux | Hacking
+- **Automation & Logic** → Clean Code | API Design | System Tuning
+- **Mindset** → Simplify. Optimize. Disrupt.
 
 ---
-### 🛠️ Workbench & Madness
+### 🌐 Connect
 
-```
-while (alive) {
-   learn();
-   experiment();
-   break_systems();
-   optimize_life();
-}
-```
-
-📊 Stats are for the weak; Legends write their own algorithms.  
-👽 [Check the Chaos](https://github-readme-stats.vercel.app/api?username=eldar-05&show_icons=true&theme=radical)  
+[📡 Transmission Link](https://www.instagram.com/eldar.xc/)  
+[🔗 Digital Gateway](https://sites.google.com/view/eldar-portfolio/home)  
 
 ---
-### 🌎 Summon Me IRL
-
-[👁 Enter the Grid](https://www.instagram.com/eldar.xc/)  
-[💻 Digital Shrine](https://sites.google.com/view/eldar-portfolio/home)  
-
----
-⚠️ *You are now inside my terminal session. Type your next command...*
+⚠️ *Efficiency is the ultimate sophistication.*
