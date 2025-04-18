@@ -11,19 +11,12 @@
 ## it was destined to be here
 
 
-
----
-### ⚙️ Tools of Creation
-
-- ✨ **Simplicity over excess** → Minimalism fuels clarity.
-- ⚙️ **Systems over shortcuts** → Build things that last.
-- 🔥 **Curiosity over comfort** → Growth begins at the unknown.
-
----
 ### 🌐 Transmission Signals
 
-[🔗 Enter the Network](https://www.instagram.com/eldar.xc/)  
-[📡 Explore the Archive](https://sites.google.com/view/eldar-portfolio/home)  
+[🔗 INSTA](https://www.instagram.com/eldar.xc/)  
+[📡 PORFOLIO](https://sites.google.com/view/eldar-portfolio/home)   
+[☠️ GAME SITE WITH TROJANS](https://eldar-05.github.io/webdesign-final)   
+[👻 ANOTHER PORTFOLIO](https://www.404media.co/)   
 
 ---
 ⚠️ *The world is built on patterns. Some are meant to be rewritten.*
