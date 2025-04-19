@@ -16,7 +16,10 @@
 [🔗 INSTA](https://www.instagram.com/eldar.xc/)  
 [📡 PORFOLIO](https://sites.google.com/view/eldar-portfolio/home)   
 [☠️ GAME SITE WITH TROJANS](https://eldar-05.github.io/webdesign-final)   
-[👻 ANOTHER PORTFOLIO](https://www.404media.co/)   
+[👻 ANOTHER PORTFOLIO](https://www.404media.co/)
+---
+## My pet-projects
+[xTransaction](https://eldar-05.github.io/x.transaction)
 
 ---
 ⚠️ *The world is built on patterns. Some are meant to be rewritten.*
