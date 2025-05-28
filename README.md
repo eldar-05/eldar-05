@@ -19,7 +19,8 @@
 [👻 ANOTHER PORTFOLIO](https://www.404media.co/)
 ---
 ## My pet-projects
-[xTransaction](https://eldar-05.github.io/x.transaction)
+[xTransaction](https://eldar-05.github.io/x.transaction)  
+[EncoderSite](https://eldar-05.github.io/passwordEnoderSite)  
 
 ---
 ⚠️ *The world is built on patterns. Some are meant to be rewritten.*
