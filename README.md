@@ -1,10 +1,8 @@
-## ⚡ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤEldarㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ
 <div align="center">
-  <img src="https://github.com/eldar-05/justcoolpic/blob/main/dar-meme.jpg" width="400" alt="Just a cool pic" />
-</div>
-
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=22&duration=3000&color=F7B93E&center=true&vCenter=true&lines=Hi,+my+name+is+Eldar;Exploring+the+IT+universe" alt="Typing SVG" />
+</div>   
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=22&duration=3000&color=F7B93E&center=true&vCenter=true&lines=>_Echoes+of+Code;>_Architect+of+the+Invisible;>_Traveler+of+the+Binary+Realm;>_Shaping+the+Unwritten" alt="Typing SVG" />
+  <img src="https://github.com/eldar-05/justcoolpic/blob/main/dar-meme.jpg" width="250" alt="Just a cool pic" />
 </div>
 
 #### *it was destined to be here*  
