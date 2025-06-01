@@ -7,20 +7,25 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=22&duration=3000&color=F7B93E&center=true&vCenter=true&lines=>_Echoes+of+Code;>_Architect+of+the+Invisible;>_Traveler+of+the+Binary+Realm;>_Shaping+the+Unwritten" alt="Typing SVG" />
 </div>
 
+#### *it was destined to be here*  
 ---
-## it was destined to be here
 
 
-### 🌐 Transmission Signals
-
+# 🌐 Transmission  
 [🔗 INSTA](https://www.instagram.com/eldar.xc/)  
 [📡 PORFOLIO](https://sites.google.com/view/eldar-portfolio/home)   
-[👻 ANOTHER PORTFOLIO](https://www.404media.co/)
+[👻 ANOTHER PORTFOLIO](https://www.404media.co/)  
+
 ---
-## My pet-projects
+### ⚙️ My pet-projects      
 [xTransaction](https://eldar-05.github.io/x.transaction)  
 [EncoderSite](https://eldar-05.github.io/passwordEnoderSite)  
 [GAME SITE WITH TROJANS(joke)](https://eldar-05.github.io/webdesign-final)   
 
 ---
-⚠️ *The world is built on patterns. Some are meant to be rewritten.*
+### 👤 Public profiles:
+[Monkey Type](https://monkeytype.com/profile/ELdar0)  
+[LeetCode](https://leetcode.com/u/eldar_05)  
+[Codeforces](https://codeforces.com/profile/eldar.xc)  
+
+⚠️ *The world is built on patterns. Some are meant to be rewritten.*  
