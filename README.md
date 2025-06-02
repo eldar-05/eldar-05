@@ -2,8 +2,13 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=22&duration=3000&color=F7B93E&center=true&vCenter=true&lines=Hi,+my+name+is+Eldar;Exploring+the+IT+universe" alt="Typing SVG" />
 </div>   
 <div align="center">
-  <img src="https://github.com/eldar-05/justcoolpic/blob/main/dar-meme.jpg" width="250" alt="Just a cool pic" />
+  <img src="https://github.com/eldar-05/justcoolpic/blob/main/photo1.jpg" width="200" />
+  &nbsp;
+  <img src="https://raw.githubusercontent.com/eldar-05/justcoolpic/main/dar-meme.jpg" width="205" />
+  &nbsp;
+  <img src="https://github.com/eldar-05/justcoolpic/blob/main/screenshot.jpg" width="200" />
 </div>
+
 
 #### *it was destined to be here*  
 ---
