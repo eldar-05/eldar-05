@@ -25,6 +25,10 @@
 [EncoderSite](https://eldar-05.github.io/passwordEnoderSite)  
 [GAME SITE WITH TROJANS(joke)](https://eldar-05.github.io/webdesign-final)  
 [brain rot game](https://eldar-05.github.io/box-sugar-crush/)  
+[Ala-Lib library java + front + database](https://github.com/eldar-05/alalib)  
+[blojji front + java](https://github.com/eldar-05/blojji)  
+[Black-Jack with java + front](https://github.com/eldar-05/blackjack2.0)  
+[Calculator with HTML](https://eldar-05.github.io/calculator-project-pro/)  
 
 ---
 ### 👤 Public profiles:
