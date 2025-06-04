@@ -23,7 +23,8 @@
 ### ⚙️ My pet-projects      
 [xTransaction](https://eldar-05.github.io/x.transaction)  
 [EncoderSite](https://eldar-05.github.io/passwordEnoderSite)  
-[GAME SITE WITH TROJANS(joke)](https://eldar-05.github.io/webdesign-final)   
+[GAME SITE WITH TROJANS(joke)](https://eldar-05.github.io/webdesign-final)  
+[brain rot game](https://eldar-05.github.io/box-sugar-crush/)  
 
 ---
 ### 👤 Public profiles:
