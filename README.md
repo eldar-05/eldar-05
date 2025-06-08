@@ -29,6 +29,7 @@
 [blojji front + java](https://github.com/eldar-05/blojji)  
 [Black-Jack with java + front](https://github.com/eldar-05/blackjack2.0)  
 [Calculator with HTML](https://eldar-05.github.io/calculator-project-pro/)  
+[Sea Battlle](https://github.com/eldar-05/sea-battle/tree/main)  
 [Social Network](https://eldar-05.github.io/bookface/)  
 [Cripto.kg](https://eldar-05.github.io/cripto.kg/)  
 [Game Theory](https://github.com/eldar-05/game-theory/tree/main)  
