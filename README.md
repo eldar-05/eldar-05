@@ -31,6 +31,7 @@
 [Calculator with HTML](https://eldar-05.github.io/calculator-project-pro/)  
 [Social Network](https://eldar-05.github.io/bookface/)  
 [Cripto.kg](https://eldar-05.github.io/cripto.kg/)  
+[Game Theory](https://github.com/eldar-05/game-theory/tree/main)  
 
 ---
 ### 👤 Public profiles:
