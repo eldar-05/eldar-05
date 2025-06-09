@@ -32,8 +32,8 @@
 [Sea Battlle](https://github.com/eldar-05/sea-battle/tree/main)  
 [Social Network](https://eldar-05.github.io/bookface/)  
 [Cripto.kg](https://eldar-05.github.io/cripto.kg/)  
-[Financial Manager App](https://github.com/eldar-05/financial-manager-app)  
-[Поле Чудес - console](https://github.com/eldar-05/polechudes-java)  
+[Financial Manager App](https://github.com/eldar-05/financeManagerApp)  
+[Поле Чудес - console](https://github.com/eldar-05/polechudes)   
 [Game Theory](https://github.com/eldar-05/game-theory/tree/main)  
 
 ---
