@@ -21,11 +21,11 @@
 
 ---
 ### ⚙️ My pet-projects      
-[xTransaction](https://eldar-05.github.io/x.transaction)  
+✩ [xTransaction](https://eldar-05.github.io/x.transaction)  
 [EncoderSite](https://eldar-05.github.io/passwordEnoderSite)  
 [GAME SITE WITH TROJANS(joke)](https://eldar-05.github.io/webdesign-final)  
 [brain rot game](https://eldar-05.github.io/box-sugar-crush/)  
-[Ala-Lib library java + front + database](https://github.com/eldar-05/alalib)  
+✩ [Ala-Lib library java + front + database](https://github.com/eldar-05/alalib)  
 [blojji front + java](https://github.com/eldar-05/blojji)  
 [Black-Jack with java + front](https://github.com/eldar-05/blackjack2.0)  
 [Calculator with HTML](https://eldar-05.github.io/calculator-project-pro/)  
@@ -34,7 +34,8 @@
 [Cripto.kg](https://eldar-05.github.io/cripto.kg/)  
 [Financial Manager App](https://github.com/eldar-05/financeManagerApp)  
 [Поле Чудес - console](https://github.com/eldar-05/polechudes)   
-[Game Theory](https://github.com/eldar-05/game-theory/tree/main)  
+✩ [Bishkek City](https://eldar-05.github.io/bishkek-city/)  
+✩ [Game Theory](https://github.com/eldar-05/game-theory/tree/main)  
 
 ---
 ### 👤 Public profiles:
