@@ -18,6 +18,8 @@
 [🔗 INSTA](https://www.instagram.com/eldar.xc/)  
 [📡 PORFOLIO](https://sites.google.com/view/eldar-portfolio/home)   
 [👻 ANOTHER PORTFOLIO](https://www.404media.co/)  
+[👾 More about me](https://eldar-05.github.io/more_about_me/)  
+
 
 ---
 ### ⚙️ My pet-projects      
