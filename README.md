@@ -1,5 +1,11 @@
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=22&duration=3000&color=F7B93E&center=true&vCenter=true&lines=Hi,+my+name+is+Eldar;Exploring+the+IT+universe" alt="Typing SVG" />
+<div align="center">  
+  
+  ███████╗██╗░░░░░██████╗░░░█████╗░░██████╗░  
+  ██╔════╝██║░░░░░██╔══██╗░██╔══██╗░██╔══██╗  
+  █████╗░░██║░░░░░██║░░██║░███████║░██████╔╝     
+  ██╔══╝░░██║░░░░░██║░░██║░██╔══██║░██╔══██╗  
+  ███████╗███████╗██████╔╝░██║░░██║░██║░░██║  
+  ╚══════╝╚══════╝╚═════╝░░╚═╝░░╚═╝░╚═╝  ╚═╝  
 </div>   
 <div align="center">
   <img src="https://github.com/eldar-05/justcoolpic/blob/main/photo1.jpg" width="200" />
