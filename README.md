@@ -1,11 +1,11 @@
-<div align="center">  
+<div align="center"> 
   
   ███████╗██╗░░░░░██████╗░░░█████╗░░██████╗░  
   ██╔════╝██║░░░░░██╔══██╗░██╔══██╗░██╔══██╗  
   █████╗░░██║░░░░░██║░░██║░███████║░██████╔╝     
   ██╔══╝░░██║░░░░░██║░░██║░██╔══██║░██╔══██╗  
   ███████╗███████╗██████╔╝░██║░░██║░██║░░██║  
-  ╚══════╝╚══════╝╚═════╝░░╚═╝░░╚═╝░╚═╝ ░ ╚═╝  
+  ╚══════╝╚══════╝╚═════╝░░╚═╝░░╚═╝░╚═╝ ░░╚═╝  
 </div>   
 <div align="center">
   <img src="https://github.com/eldar-05/justcoolpic/blob/main/photo1.jpg" width="200" />
@@ -28,7 +28,14 @@
 
 
 ---
-### ⚙️ My pet-projects      
+  <div align="center">
+  <a href="https://eldar-05.github.io/LTnso52/">
+    <img src="https://github.com/eldar-05/justcoolpic/blob/main/Click_here_button.png" alt="Your Screenshot" width="200" />
+  </a>
+</div>  
+  
+### ⚙️ My pet-projects   
+  
 ✩ [xTransaction](https://eldar-05.github.io/x.transaction)  
 [EncoderSite](https://eldar-05.github.io/passwordEnoderSite)  
 [GAME SITE WITH TROJANS(joke)](https://eldar-05.github.io/webdesign-final)  
