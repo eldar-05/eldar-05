@@ -8,11 +8,11 @@
   ╚══════╝╚══════╝╚═════╝░░╚═╝░░╚═╝░╚═╝ ░░╚═╝  
 </div>   
 <div align="center">
-  <img src="https://github.com/eldar-05/justcoolpic/blob/main/photo1.jpg" width="200" />
+  <img src="https://github.com/eldar-05/justcoolpic/blob/main/red-polygon.gif" width="200" />
   &nbsp;
-  <img src="https://raw.githubusercontent.com/eldar-05/justcoolpic/main/dar-meme.jpg" width="200" />
+  <img src="https://github.com/eldar-05/justcoolpic/blob/main/retro.gif" width="200" />
   &nbsp;
-  <img src="https://github.com/eldar-05/justcoolpic/blob/main/screenshot.jpg" width="200" />
+  <img src="https://github.com/eldar-05/justcoolpic/blob/main/tovarish-stalin.gif" width="200" />
 </div>
 
 
