@@ -52,6 +52,7 @@
 ✩ [Bishkek City](https://eldar-05.github.io/bishkek-city/)  
 ✩ [Game Theory](https://github.com/eldar-05/game-theory/tree/main)  
 [ORT math part](https://eldar-05.github.io/ort)  
+✩ [200 projects idea](https://eldar-05.github.io/200-pet)  
 
 ---
 ### 👤 Public profiles:
