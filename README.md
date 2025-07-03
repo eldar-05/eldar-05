@@ -63,5 +63,4 @@
 [LeetCode](https://leetcode.com/u/eldar_05)  
 [Codeforces](https://codeforces.com/profile/eldar.xc)  
 
-<img src="https://github.githubassets.com/assets/mona-loading-default-c3c7aad1282f.gif" width="200" />  
 ⚠️ *The world is built on patterns. Some are meant to be rewritten.*  
