@@ -7,19 +7,19 @@
   ███████╗███████╗██████╔╝░██║░░██║░██║░░██║  
   ╚══════╝╚══════╝╚═════╝░░╚═╝░░╚═╝░╚═╝ ░░╚═╝  
 </div>   
+<!--    
 <div align="center">
   <img src="https://github.com/eldar-05/justcoolpic/blob/main/red-polygon.gif" width="200" />
   &nbsp;
   <img src="https://github.com/eldar-05/justcoolpic/blob/main/retro.gif" width="200" />
   &nbsp;
   <img src="https://github.com/eldar-05/justcoolpic/blob/main/tovarish-stalin.gif" width="200" />
-</div>
-
-
+</div>  
+<!--
 #### *it was destined to be here*  
 ---
 
-
+<!--
 # 🌐 Transmission  
 [🔗 INSTA](https://www.instagram.com/eldar.xc/)  
 [📡 PORFOLIO](https://sites.google.com/view/eldar-portfolio/home)   
