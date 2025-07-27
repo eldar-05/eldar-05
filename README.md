@@ -7,6 +7,9 @@
   ███████╗███████╗██████╔╝░██║░░██║░██║░░██║  
   ╚══════╝╚══════╝╚═════╝░░╚═╝░░╚═╝░╚═╝ ░░╚═╝  
 </div>   
+<div align="center"> 
+  eldar.org.kg
+</div>   
 <!--    
 <div align="center">
   <img src="https://github.com/eldar-05/justcoolpic/blob/main/red-polygon.gif" width="200" />
