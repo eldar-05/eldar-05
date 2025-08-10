@@ -8,7 +8,7 @@
   ╚══════╝╚══════╝╚═════╝░░╚═╝░░╚═╝░╚═╝ ░░╚═╝  
 </div>   
 <div align="center"> 
-  eldar.org.kg
+  
 </div>   
 <!--    
 <div align="center">
