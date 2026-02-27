@@ -53,7 +53,7 @@
 ✩ [Best top 10 IT products and tech](https://eldar-05.github.io/besttop10products/)  
 [Pig game](https://eldar-05.github.io/pig-game/)  
 [Stells](https://eldar-05.github.io/stells/)  
-[Elo rank Calculator and Ranking](https://github.com/eldar-05/elo-rank) [>>> site <<<](https://eldar-05.github.io/elo-rank/)  
+[Elo rank Calculator and Ranking](https://github.com/eldar-05/elo-rank) [👉 site 👈](https://eldar-05.github.io/elo-rank/)  
 
 ---
 ### 👤 Public profiles:
