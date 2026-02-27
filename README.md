@@ -50,6 +50,10 @@
 ✩ [Game Theory](https://github.com/eldar-05/game-theory/tree/main)  
 [ORT math part](https://eldar-05.github.io/ort)  
 ✩ [200 projects idea](https://eldar-05.github.io/200-pet)  
+✩ [Best top 10 IT products and tech](https://eldar-05.github.io/besttop10products/)  
+[Pig game](https://eldar-05.github.io/pig-game/)  
+[Stells](https://eldar-05.github.io/stells/)  
+[Elo rank Calculator and Ranking](https://github.com/eldar-05/elo-rank) [>>> site <<<](https://eldar-05.github.io/elo-rank/)  
 
 ---
 ### 👤 Public profiles:
